@@ -1,6 +1,6 @@
 # Coursera-TikTok-Project
 
-![TikTok Logo](images%20-%20Canva%20TikTok%20Logo.png)
+![TikTok Logo](Images/Canva_TikTok_Logo.png)
 
 This repository is a work in progress and will continue to evolve as I advance through the Advanced Data Analytics Professional Certificate. It reflects my commitment to a structured and methodical approach to data analytics, documenting the ongoing development of my project.
 
