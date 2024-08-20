@@ -12,7 +12,7 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - *Download to view by clicking on "View Raw"*
 2. [Project Proposal](03_C1_TikTok_Project_Proposal.pdf)
     - Outline of objectives and approach for this initiative.
-3. [Initial EDA - Jupyter Notebook](04_C2_JP_Notebook_Prelim_EDA.ipynb)
+3. [Initial EDA - Jupyter Notebook](04_C2_Initial_EDA_Jupyter_Notebook.ipynb)
     - Initial data exploration and analysis.
 4. [Executive Summary](05_C2_Executive_Summary.pdf)
     - Summary of key findings from the preliminary analysis.
