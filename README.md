@@ -19,3 +19,5 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - Initial data exploration and analysis.
 4. [Executive Summary](05_C2_Executive_Summary.md)
     - Summary of key findings from the preliminary analysis.
+5. [Full EDA - Jupyter Notebook](06_C3_Full_EDA_Jupyter_Notebook.ipynb)
+    - Full data exploration and analysis.
