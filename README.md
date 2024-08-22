@@ -1,8 +1,8 @@
-# Coursera-TikTok-Project
+# Coursera-TikTok-Capstone-Project
 
 ![TikTok Logo](Images/Canva_TikTok_Logo.png)
 
-**Welcome!**  This repository is a work in progress and will continue to evolve as I complete the Advanced Data Analytics Professional Certificate. It reflects my commitment to a structured, methodical approach to data analytics, documenting the ongoing development of my project.
+**Welcome!**  This repository is a work in progress and will continue to evolve as I complete the Advanced Google Data Analytics Professional Certificate. It reflects my commitment to a structured, methodical approach to data analytics, documenting the ongoing development of my project.
 
 This initiative aims to develop a machine learning model for classifying TikTok user interactions as claims or opinions. The project includes Jupyter Notebooks, Canva presentations, Word documents, Excel worksheets, and Tableau Public links, with the goal of enhancing content moderation efficiency and improving user experience through cross-functional collaboration.
 
