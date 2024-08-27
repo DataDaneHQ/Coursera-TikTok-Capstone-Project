@@ -22,3 +22,5 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - Full data exploration and analysis.
 6. [Tableau Summary Dashboard](06_C3_Tableau_Summary_Dashboard.md)
     - Visual representation of key insights from the full Exploratory Data Analysis.
+7. [Executive Summary - Full EDA](07_C3_Executive_Summary.md)
+    - Summary of key findings from the full exploratory analysis.
