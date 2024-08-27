@@ -12,7 +12,6 @@ This initiative aims to develop a machine learning model for classifying TikTok 
 ## Contents
 1. [Project Workflow](01_Project_Workflow.md)
     - An Excel sheet outlining the workflow and key milestones for the TikTok Claims Classification Project.
-    - Download to view by clicking on *"View Raw"*
 2. [Project Proposal](02_C1_TikTok_Project_Proposal.pdf)
     - Outline of objectives and approach for this initiative.
 3. [Initial EDA - Jupyter Notebook](03_C2_Initial_EDA_Jupyter_Notebook.ipynb)
