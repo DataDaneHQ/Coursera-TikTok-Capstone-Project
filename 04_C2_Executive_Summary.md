@@ -4,4 +4,4 @@
 
 <br>
 
-![Canva Executive Summary](Images/Canva_Executive_Summary_1.png)
+![Canva Executive Summary](Images/Canva_Executive_Summary.png)
