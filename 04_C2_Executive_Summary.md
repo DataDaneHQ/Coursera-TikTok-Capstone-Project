@@ -4,4 +4,4 @@
 
 <br>
 
-![Canva Executive Summary](Images/Canva_Executive_Summary.png)
+<img src="Images/Canva_Executive_Summary.png" alt="Canva Executive Summary" width="500"/>
