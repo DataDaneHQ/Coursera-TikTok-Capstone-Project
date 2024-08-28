@@ -1,6 +1,8 @@
 # Coming Soon!!
 
-In the upcoming stages of my learning journey through "The Power of Statistics" course, I will deepen my understanding of key statistical concepts essential for data analysis. Here's a brief overview of what I'm currently learning:
+As part of the Advanced Google Data Analytics Professional Certificate, I will deepen my understanding of key statistical concepts essential for data analysis in the upcoming stages of my learning journey through 'The Power of Statistics' course.
+
+Here's a brief overview of what I'm currently learning:
 
 * **Introduction to Statistics:** Mastering fundamental concepts like descriptive statistics, including measures of central tendency, dispersion, and position.
 
@@ -14,4 +16,4 @@ In the upcoming stages of my learning journey through "The Power of Statistics" 
 
 * **Capstone Project:** Applying my statistical knowledge in a real-world scenario to create a professional artifact that will be added to my portfolio.
 
-Upon completion, I will update my portfolio with the next stage of my capstone project, showcasing the skills and knowledge gained.
+Upon completion, I will update this repository with the next stage of my capstone project, showcasing the skills and knowledge gained.
