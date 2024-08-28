@@ -24,4 +24,6 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - Visual representation of key insights from the full Exploratory Data Analysis.
 7. [Executive Summary - Full EDA](07_C3_Executive_Summary.md)
     - Summary of key findings from the full exploratory analysis.
+8. [Coming Soon](08_C4_Coming_Soon.md)
+    - Capstone Project and Deliverables upon completion of Course 4.
 
