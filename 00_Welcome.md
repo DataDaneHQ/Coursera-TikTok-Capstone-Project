@@ -8,6 +8,7 @@ This initiative aims to develop a machine learning model for classifying TikTok 
 
 ***Note:*** *Team member names used in this workplace scenario project are fictional and are not representative of TikTok.*
 
+<br>
 
 ## Contents
 1. [Project Workflow](01_Project_Workflow.md)
@@ -26,3 +27,9 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - Summary of key findings from the full exploratory analysis.
 8. [Coming Soon](08_C4_Coming_Soon.md)
     - Capstone Project and Deliverables upon completion of Course 4.
+
+<br>
+
+## ***License***
+
+*All rights reserved. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.*
