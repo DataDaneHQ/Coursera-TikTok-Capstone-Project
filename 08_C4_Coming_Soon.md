@@ -1,6 +1,6 @@
 # Coming Soon!!
 
-As part of the Advanced Google Data Analytics Professional Certificate, I am currently diving into key statistical concepts essential for data analysis through 'The Power of Statistics' course. My learning journey has progressed into a hands-on capstone project focused on real-world data analysis, applying statistical techniques to gain insights from TikTok video interaction data.
+As part of the Advanced Google Data Analytics Professional Certificate, I am currently diving into key statistical concepts essential for data analysis through 'The Power of Statistics' course. This includes - probability, sampling, confidence levels, A/B testing, hypothesis testing, and using Pythons SciPy Stats modules.  My learning journey has progressed into a hands-on capstone project focused on real-world data analysis, applying statistical techniques to gain insights from TikTok video interaction data.
 
 <br>
 
