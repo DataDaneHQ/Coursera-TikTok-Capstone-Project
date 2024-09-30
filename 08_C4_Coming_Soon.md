@@ -30,4 +30,4 @@ Perform a hypothesis test to determine if there is a statistically significant d
 
 Upon completion of this project, I will update this repository with the next stage of my capstone project, showcasing the data-driven insights, results, and professional artifact that will be added to my portfolio.
 
-To follow my progress, check out my [*Project Workflow Worksheet*](https://1drv.ms/x/c/7fc1e21a85c52ea2/IQNiqQp9pzOyT6zVobKqBKDHAcpPicaKagxmED5eZVk244A?em=2&wdAllowInteractivity=False&ActiveCell='Welcome'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True)  See tab, "C4_Tasks".
+To follow my progress, check out my [*Project Workflow Worksheet*](https://1drv.ms/x/c/7fc1e21a85c52ea2/IQNiqQp9pzOyT6zVobKqBKDHAcpPicaKagxmED5eZVk244A?em=2&wdAllowInteractivity=False&ActiveCell='Welcome'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True).  See tab, "C4_Tasks".
