@@ -8,4 +8,4 @@ Through visualizations such as scatter plots, doughnut charts, bar charts, and b
 
 <br>
 
-<img src="Images/Tableau_Summary_Dashboard.png" alt="Tableau Summary Dashboard" width="500"/>
+<img src="../Images/Tableau_Summary_Dashboard.png" alt="Tableau Summary Dashboard" width="500"/>
