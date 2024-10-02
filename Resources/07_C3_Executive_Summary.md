@@ -4,4 +4,4 @@
 
 <br>
 
-<img src="Images/Canva_Full_EDA_Executive_Summary.png" alt="Canva Executive Summary" width="500"/>
+<img src="../Images/Canva_Full_EDA_Executive_Summary.png" alt="Canva Executive Summary" width="500"/>
