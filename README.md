@@ -27,9 +27,9 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - Summary of key findings from the full exploratory analysis.
 8. [Hypothesis Testing - Jupyter Notebook](Resources/08_C4_Hypothesis_Test_Jupyter_Notebook.ipynb)
     - Technical summary for internal stakeholders (the data team), documenting the full analysis process and two-sample hypothesis test.
-9. Executive Summary - For External Stakeholders
-    - In Progress!
-11. [Coming Soon](Resources/10_C5_Coming_Soon.md)
+9. [Executive Summary - Hypothesis Test](Resources/09_C4_Executive_Summary.md)
+    - High-level summary of key findings and insights for external stakeholders.
+10. [Coming Soon](Resources/10_C5_Coming_Soon.md)
     - Capstone Project and Deliverables upon completion of Course 5.
 
 <br>
