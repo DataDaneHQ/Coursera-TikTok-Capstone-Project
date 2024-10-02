@@ -1,6 +1,6 @@
 # Coursera-TikTok-Capstone-Project
 
-![TikTok Logo](Images/Canva_TikTok_Logo.png)
+![TikTok Logo](../Images/Canva_TikTok_Logo.png)
 
 **Welcome!**  This repository is a work in progress and will continue to evolve as I complete the Advanced Google Data Analytics Professional Certificate. It reflects my commitment to a structured, methodical approach to data analytics, documenting the ongoing development of my project.
 
