@@ -11,21 +11,21 @@ This initiative aims to develop a machine learning model for classifying TikTok 
 <br>
 
 ## Contents
-1. [Project Workflow](01_Project_Workflow.md)
+1. [Project Workflow](Resources/01_Project_Workflow.md)
     - An Excel sheet outlining the workflow and key milestones for the TikTok Claims Classification Project.
-2. [Project Proposal](02_C1_TikTok_Project_Proposal.pdf)
+2. [Project Proposal](Resources/02_C1_TikTok_Project_Proposal.pdf)
     - Outline of objectives and approach for this initiative.
-3. [Initial EDA - Jupyter Notebook](03_C2_Initial_EDA_Jupyter_Notebook.ipynb)
+3. [Initial EDA - Jupyter Notebook](Resources/03_C2_Initial_EDA_Jupyter_Notebook.ipynb)
     - Initial data exploration and analysis.
-4. [Executive Summary](04_C2_Executive_Summary.md)
+4. [Executive Summary](Resources/04_C2_Executive_Summary.md)
     - Summary of key findings from the preliminary analysis.
-5. [Full EDA - Jupyter Notebook](05_C3_Full_EDA_Jupyter_Notebook.ipynb)
+5. [Full EDA - Jupyter Notebook](Resources/05_C3_Full_EDA_Jupyter_Notebook.ipynb)
     - Full data exploration and analysis.
-6. [Tableau Summary Dashboard](06_C3_Tableau_Summary_Dashboard.md)
+6. [Tableau Summary Dashboard](Resources/06_C3_Tableau_Summary_Dashboard.md)
     - Visual representation of key insights from the full Exploratory Data Analysis.
-7. [Executive Summary - Full EDA](07_C3_Executive_Summary.md)
+7. [Executive Summary - Full EDA](Resources/07_C3_Executive_Summary.md)
     - Summary of key findings from the full exploratory analysis.
-8. [Coming Soon](08_C4_Coming_Soon.md)
+8. [Coming Soon](Resources/08_C4_Coming_Soon.md)
     - Capstone Project and Deliverables upon completion of Course 4.
 
 <br>
