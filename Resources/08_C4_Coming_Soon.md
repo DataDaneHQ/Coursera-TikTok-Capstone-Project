@@ -20,8 +20,6 @@ Perform a hypothesis test to determine if there is a statistically significant d
 
 * Conduct a Two-Sample Hypothesis Test – In Progress (comparing video view counts for verified versus unverified accounts)
 
-* Conduct Statistical Testing – In Progress (hypothesis testing for verified vs. unverified accounts)
-
 * Prepare a Summary of the Results – Not Started (for internal review)
 
 * Write an Executive Summary – Not Started (overview of key findings from statistical testing, aimed at non-technical stakeholders)
