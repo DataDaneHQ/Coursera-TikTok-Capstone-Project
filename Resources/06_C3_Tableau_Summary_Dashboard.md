@@ -1,6 +1,6 @@
 # TikTok Claims Classification: Summary Dashboard
 
-[*Explore the Tableau Dashboard*](https://public.tableau.com/app/profile/dane.tipene/viz/TikTokClaimsClassificationSummaryDashboardv2/SummaryDashboard)
+[*Explore the Tableau Dashboard*](https://public.tableau.com/app/profile/dane.tipene/viz/TikTokClaimsClassificationSummaryDashboardv2/SummaryDashboardDM#1)
 
 This Tableau summary dashboard provides a comprehensive overview of the key insights derived from the Exploratory Data Analysis (EDA) conducted on the TikTok dataset. The dashboard highlights the critical role of engagement metrics and author status in predicting whether a video is classified as a claim or opinion. 
 
