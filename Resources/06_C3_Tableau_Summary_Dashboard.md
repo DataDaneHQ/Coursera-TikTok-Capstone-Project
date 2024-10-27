@@ -8,4 +8,4 @@ Through visualizations such as scatter plots, doughnut charts, bar charts, and b
 
 <br>
 
-<img src="../Images/Final_TikTok_Claims_Classification_Summary_Dashboard.png" alt="Tableau Summary Dashboard" width="500"/>
+<img src="../Images/Final_TikTok_Claims_Classification_Summary_Dashboard_DM.png" alt="Tableau Summary Dashboard" width="500"/>
