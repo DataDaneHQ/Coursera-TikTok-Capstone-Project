@@ -16,7 +16,7 @@ As part of the Advanced Google Data Analytics Professional Certificate, I am cur
 
 * ***Logistic Regression:*** Exploring binomial and multinomial logistic regression models, along with key metrics like ROC, AUC, precision, and recall.
 
-* ***End-of-Course Project:*** Using all the skills and concepts learned to solve a business problem in a final project that will demonstrate my advanced data analytics capabilities.
+* ***End-of-Course Project:*** Using all the skills and concepts learned to solve a business problem in a final project that will demonstrate my advanced data analytics capabilities. 
 
 <br>
 
