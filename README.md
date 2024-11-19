@@ -15,7 +15,7 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - An Excel sheet outlining the workflow and key milestones for the TikTok Claims Classification Project.
 2. [Project Proposal](Resources/02_C1_TikTok_Project_Proposal.pdf)
     - Outline of objectives and approach for this initiative.
-3. [Initial EDA - Jupyter Notebook](Resources/03_C2_Initial_EDA_Jupyter_Notebook.ipynb)
+3. [Initial EDA - Jupyter Notebook](https://www.canva.com/design/DAGMDAe1zbM/kuAsDPI0ZO81mV-sPrDGag/view?utm_content=DAGMDAe1zbM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
     - Initial data exploration and analysis.
 4. [Executive Summary](Resources/04_C2_Executive_Summary.md)
     - Summary of key findings from the preliminary analysis.
@@ -23,18 +23,18 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - Full data exploration and analysis.
 6. [Tableau Summary Dashboard](Resources/06_C3_Tableau_Summary_Dashboard.md)
     - Visual representation of key insights from the full Exploratory Data Analysis.
-7. [Executive Summary - Full EDA](Resources/07_C3_Executive_Summary.md)
+7. [Executive Summary - Full EDA](https://www.canva.com/design/DAGPAdlUrF0/k7B0179ZnC65CUd3cXjUvw/view?utm_content=DAGPAdlUrF0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
     - Summary of key findings from the full exploratory analysis.
 8. [Hypothesis Testing - Jupyter Notebook](Resources/08_C4_Hypothesis_Test_Jupyter_Notebook.ipynb)
     - Technical summary for internal stakeholders (the data team), documenting the full analysis process and two-sample hypothesis test.
-9. [Executive Summary - Hypothesis Test](Resources/09_C4_Executive_Summary.md)
+9. [Executive Summary - Hypothesis Test](https://www.canva.com/design/DAGSZopRy2I/5JjMtMJ5uvX7Xgo5F0RYKw/view?utm_content=DAGSZopRy2I&utm_campaign=designshare&utm_medium=link&utm_source=editor)
     - High-level summary of key findings and insights for external stakeholders.
 10. [Logistic Regression Model - Jupyter Notebook](Resources/10_C5_Logistic_Regression_Model_Jupyter_Notebook.ipynb)
     - Explores the relationship between video charateristics and user verification status, providing insights for feature selection in the final claims classification model.
-11. <a href="https://www.canva.com/design/DAGW4WemkVM/-hJ_t55riU_MqIDAsCJ1DA/view?utm_content=DAGW4WemkVM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd43129146c" target="_blank">Executive Summary - Logistic Regression Analysis</a>
+11. [Executive Summary - Logistic Regression Analysis](https://www.canva.com/design/DAGW4WemkVM/-hJ_t55riU_MqIDAsCJ1DA/view?utm_content=DAGW4WemkVM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd43129146c)
     - Summary of key insights and model performance.
-12. [Coming Soon](Resources/10_C5_Coming_Soon.md)
-    - Capstone Project and Deliverables upon completion of Course 5.
+12. [Coming Soon](Resources/12_C6_Coming_Soon.md)
+    - Capstone Project and Deliverables upon completion of Course 6.
 
 <br>
 
