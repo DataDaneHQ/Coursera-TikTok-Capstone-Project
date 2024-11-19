@@ -2,6 +2,8 @@
 
 As part of the Advanced Google Data Analytics Professional Certificate, I am now delving into machine learning techniques and their applications in solving business problems. Through the 'Machine Learning for Advanced Data Analytics' course (Course 6), I am focusing on supervised and unsupervised learning methods, tree-based modeling, and ethical considerations in machine learning. This journey builds on my foundation in regression analysis and hypothesis testing, advancing toward more complex modeling techniques.
 
+<br>
+
 <img src="../Images/Course_6_Content.png" alt="Course 6 Content Image"/>
 
 ## Here's a brief overview of what I'm currently learning:
