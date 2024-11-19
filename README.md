@@ -29,7 +29,11 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - Technical summary for internal stakeholders (the data team), documenting the full analysis process and two-sample hypothesis test.
 9. [Executive Summary - Hypothesis Test](Resources/09_C4_Executive_Summary.md)
     - High-level summary of key findings and insights for external stakeholders.
-10. [Coming Soon](Resources/10_C5_Coming_Soon.md)
+10. [Logistic Regression Model - Jupyter Notebook](Resources/10_C5_Logistic_Regression_Model_Jupyter_Notebook.ipynb)
+    - Explores the relationship between video charateristics and user verification status, providing insights for feature selection in the final claims classification model.
+11. <a href="https://www.canva.com/design/DAGW4WemkVM/-hJ_t55riU_MqIDAsCJ1DA/view?utm_content=DAGW4WemkVM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd43129146c" target="_blank">Executive Summary - Logistic Regression Analysis</a>
+    - Summary of key insights and model performance.
+12. [Coming Soon](Resources/10_C5_Coming_Soon.md)
     - Capstone Project and Deliverables upon completion of Course 5.
 
 <br>
