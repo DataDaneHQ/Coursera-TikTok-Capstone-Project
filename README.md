@@ -43,9 +43,9 @@ The goal of this project was to classify TikTok user interactions as claims or o
     - Explores the relationship between video charateristics and user verification status, providing insights for feature selection in the final claims classification model.
 11. [Executive Summary - Logistic Regression Analysis](https://www.canva.com/design/DAGW4WemkVM/-hJ_t55riU_MqIDAsCJ1DA/view?utm_content=DAGW4WemkVM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd43129146c)
     - Summary of key insights and model performance.
-12. [Pre-Processed Dataset - Jupyter Notebook](12_C6_Pre-Processed_Dataset_Jupyter_Notebook.ipynb)
+12. [Pre-Processed Dataset - Jupyter Notebook](Resources/12_C6_Pre-Processed_Dataset_Jupyter_Notebook.ipynb)
     - Prepares the TikTok dataset for machine learning by addressing data quality issues and feature engineering.
-13. [Model Development](13_C6_Model_Development_Jupyter_Notebook.ipynb)
+13. [Model Development](Resources/13_C6_Model_Development_Jupyter_Notebook.ipynb)
     - Builds and evaluates Random Forest and XGBoost models to classify TikTok videos and support efficient content moderation.
 14. [Final Executive Report](https://www.canva.com/design/DAGcjLKpYUE/uwZpIoxtSQCnMpQSjMSyhw/view?utm_content=DAGcjLKpYUE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he2b4c17bde)
     - Summarizes the development, performance, and recommendations for a machine learning model to enhance TikTok's content moderation.
