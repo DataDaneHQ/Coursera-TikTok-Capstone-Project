@@ -1,10 +1,20 @@
-# Coursera-TikTok-Capstone-Project
+# TikTok-Capstone-Project
 
 ![TikTok Logo](Images/Canva_TikTok_Logo.png)
 
-**Welcome!**  This repository is a work in progress and will continue to evolve as I complete the Advanced Google Data Analytics Professional Certificate. It reflects my commitment to a structured, methodical approach to data analytics, documenting the ongoing development of my project.
+**Welcome!**  
 
-This initiative aims to develop a machine learning model for classifying TikTok user interactions as claims or opinions. The project includes Jupyter Notebooks, Canva presentations, Word documents, Excel worksheets, and Tableau Public links, with the goal of enhancing content moderation efficiency and improving user experience through cross-functional collaboration.
+This repository showcases my completed project, developed as part of the Advanced Google Data Analytics Professional Certificate. The initiative reflects a structured and methodical approach to solving real-world challenges in content moderation using data analytics and machine learning.
+
+The project spans the entire analytics lifecycle, including:
+
+- **Defining Objectives:** Deriving tasks and deliverables from stakeholder communications and emails.
+- **Planning:** Creating project proposals, workflows, and timelines.
+- **Development:** Building Jupyter Notebooks to clean data, develop models, and evaluate performance.
+- **Visualization:** Designing Tableau dashboards to present key insights.
+- **Delivery:** Crafting executive summaries and detailed reports for stakeholders.
+
+The goal of this project was to classify TikTok user interactions as claims or opinions, leveraging machine learning to enhance moderation efficiency, reduce backlogs, and improve user experience. This repository highlights cross-functional collaboration, technical expertise, and the ability to deliver actionable insights, making it a valuable example of applied data analytics and machine learning.
 
 ***Note:*** *Team member names used in this workplace scenario project are fictional and are not representative of TikTok.*
 
@@ -33,9 +43,13 @@ This initiative aims to develop a machine learning model for classifying TikTok 
     - Explores the relationship between video charateristics and user verification status, providing insights for feature selection in the final claims classification model.
 11. [Executive Summary - Logistic Regression Analysis](https://www.canva.com/design/DAGW4WemkVM/-hJ_t55riU_MqIDAsCJ1DA/view?utm_content=DAGW4WemkVM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd43129146c)
     - Summary of key insights and model performance.
-12. [Coming Soon](Resources/12_C6_Coming_Soon.md)
-    - Capstone Project and Deliverables upon completion of Course 6.
-
+12. [Pre-Processed Dataset - Jupyter Notebook](12_C6_Pre-Processed_Dataset_Jupyter_Notebook.ipynb)
+    - Prepares the TikTok dataset for machine learning by addressing data quality issues and feature engineering.
+13. [Model Development](13_C6_Model_Development_Jupyter_Notebook.ipynb)
+    - Builds and evaluates Random Forest and XGBoost models to classify TikTok videos and support efficient content moderation.
+14. [Final Executive Report](https://www.canva.com/design/DAGcjLKpYUE/uwZpIoxtSQCnMpQSjMSyhw/view?utm_content=DAGcjLKpYUE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he2b4c17bde)
+    - Summarizes the development, performance, and recommendations for a machine learning model to enhance TikTok's content moderation.
+ 
 <br>
 
 ***License:*** *All rights reserved. No part of this repository may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the owner.*
