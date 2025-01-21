@@ -1,6 +1,6 @@
 # TikTok-Capstone-Project
 
-![TikTok Logo](Images/Canva_TikTok_Logo.png)
+![TikTok Logo](Images/Optimizing_Content_Moderation_with_Machine_Learning.png)
 
 **Welcome!**  
 
