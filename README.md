@@ -4,7 +4,7 @@
 
 **Welcome!**  
 
-This repository showcases my completed project, developed as part of the Advanced Google Data Analytics Professional Certificate. The initiative reflects a structured and methodical approach to solving real-world challenges in content moderation using data analytics and machine learning.
+This repository showcases my completed project, developed as part of the Google Advanced Data Analytics Professional Certificate. The initiative reflects a structured and methodical approach to solving real-world challenges in content moderation using data analytics and machine learning.
 
 The project spans the entire analytics lifecycle, including:
 
