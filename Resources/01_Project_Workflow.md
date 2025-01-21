@@ -6,12 +6,12 @@ This comprehensive workbook is designed to document and streamline the organizat
 
 Inside, you’ll find:
 
-* Project Workflow: A structured overview of key project stages, outlining objectives and milestones.
+* **Project Workflow:** A structured overview of key project stages, outlining objectives and milestones.
 
-* Action Items: Detailed tasks for every stage, ensuring organized and thorough project completion.
+* **Action Items:** Detailed tasks for every stage, ensuring organized and thorough project completion.
 
-* Email Records: Copies of important communications and follow-up tasks to maintain clarity and meet stakeholder expectations.
+* **Email Records:** Copies of important communications and follow-up tasks to maintain clarity and meet stakeholder expectations.
 
-* Deliverables: Easy access to all project deliverables, enabling efficient review and tracking.
+* **Deliverables:** Easy access to all project deliverables, enabling efficient review and tracking.
 
 As I progressed through the program, this workbook continued to evolve, reflecting a structured and methodical approach to data analytics.
