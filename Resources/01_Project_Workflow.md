@@ -14,4 +14,4 @@ Inside, you’ll find:
 
 * Deliverables: Easy access to all project deliverables, enabling efficient review and tracking.
 
-As I progress through the program, this workbook will continue to evolve, reflecting a structured and methodical approach to data analytics.
+As I progressed through the program, this workbook continued to evolve, reflecting a structured and methodical approach to data analytics.
